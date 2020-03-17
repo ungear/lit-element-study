@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "polymer-cli": "^1.9.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "polymer serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungear/lit-element-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ungear/lit-element-study/issues"
+  },
+  "homepage": "https://github.com/ungear/lit-element-study#readme"
+}
